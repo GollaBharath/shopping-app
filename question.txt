@@ -1,0 +1,8 @@
+welcome to kmit shopping mart
+what do you want to shop? (category list with repective files)
+display items
+ask stay or go to other categories
+checkout option 
+gst option 2.50%
+another file transactions.txt
+save with date, name, bill amt, etc details

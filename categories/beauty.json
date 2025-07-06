@@ -1,0 +1,28 @@
+{
+    "beauty_products":[
+        {
+            "product_name":"lipstick",
+            "brand":"mamaearth",
+            "price":50,
+            "description":"It is a nice product "
+        },
+        {  
+            "product_name":"Powder",
+            "brand":"Ponds",
+            "price":20,
+            "description":"It is the no-1 brand in India"
+        },
+        {
+            "product_name":"makeupkit",
+            "brand":"Himalaya",
+            "price":1000,
+            "description":"it is greate!!!"
+        },
+        {
+            "product_name":"FairandLovely",
+            "brand":"fair and lovely",
+            "price":15,
+            "description":"Use it glow it "
+        }]
+    }
+    

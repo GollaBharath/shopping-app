@@ -1,0 +1,23 @@
+{
+    "stationary_products":[{
+    "product_name":"Book",
+    "brand":"Nirma",
+    "price":25,
+    "description":"great----!!product"
+    },{  
+    "product_name":"Pencil",
+    "brand":"Apsara",
+    "price":10,
+    "description":"smooth and provides good Hand Writing"
+    },{
+    "product_name":"scale",
+    "brand":"SMOC",
+    "price":10,
+    "description":"it is Nice Product !!!"
+    },{
+    "product_name":"Pen",
+    "brand":"Cello",
+    "price":10,
+    "description":"Provides smooth HandWriting"
+    }]
+    }

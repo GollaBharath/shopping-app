@@ -1,0 +1,23 @@
+{
+    "electronics_products":[{
+    "product_name":"Fan",
+    "brand":"Bajaj",
+    "price":1200,
+    "description":"It is a nice product.Use it Feel it "
+    },{  
+    "product_name":"Refrigerator",
+    "brand":"LG",
+    "price":15000,
+    "description":"It is the no-1 brand "
+    },{
+    "product_name":"Air Conditioner",
+    "brand":"Votas",
+    "price":50000,
+    "description":"Feel The Cool Air"
+    },{
+    "product_name":"light",
+    "brand":"Havels",
+    "price":50,
+    "description":"Use it glow it "
+    }]
+    }
